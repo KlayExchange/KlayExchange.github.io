@@ -34,7 +34,7 @@
   "InsufficientBalance": "Insufficient Balance",
   "InsufficientKlayBalance": "Insufficient KLAY balance to use tx fee",
   "NeedValueToSubmit": "Enter a value to continue",
-  "InsufficientLiquidity": "Insufficient liquidity",
+  "InsufficientLiquidity": "Insufficient Liquidity",
   "InvalidValue": "Invalid input value",
   "TokenNotSelected": "Select a token",
   "PoolSizeTitle": "Current Pool Size",
@@ -109,5 +109,6 @@
   "OnlyAvailableInMainNet": "Klay exchange is only available on klaytn mainnet.<br/>Please change the network in your kaikas.",
   "KaikasOnlyAvailableInDesktop": "Kaikas are unavailable for <strong>Mobile</strong> and <strong>Tablet</strong>",
   "OnlyCreateErc20Token": "You only can create pool about ERC-20 based token.",
-  "NeedInstallKaikas": "kaikas in not installed. check the notice on left side."
+  "NeedInstallKaikas": "kaikas in not installed. check the notice on left side.",
+  "ImpossibleSwapCauseLP": "Pool balance of this token is 0. It is impossible to swap this token. Please select another token."
 }
